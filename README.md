@@ -21,7 +21,7 @@ account (address)
 account (address)
    account (address)
  bool
-Tittie Shaka Coin string
+Shaka Token string
 5000000000000000000 uint256
 0x15ef83f49ee81ee928d3f7ab209a247525a7d575 address
 tAmount (uint256)
